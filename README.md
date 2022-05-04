@@ -6,3 +6,4 @@ Webova stranka
 
 
 Zmena  na GitHube
+Conflict
